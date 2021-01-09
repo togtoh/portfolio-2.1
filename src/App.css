@@ -1,0 +1,25 @@
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.site-layout-sub-header-background {
+  background: #fff;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+.Content {
+  background-color: #fff;
+}
+
+.Avatar {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
